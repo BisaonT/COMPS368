@@ -1,8 +1,6 @@
 import java.io.*;
 import java.net.*;
 
-/* Test */
-
 public class DemoServer{
 	
 	public static void main(String args[]){
